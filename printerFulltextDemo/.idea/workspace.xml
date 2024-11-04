@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32e8a93a-3485-478d-a3ea-e9e4a4225671" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/bean/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/bean/Document.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/bean/SearchResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/bean/SearchResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/bean/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/component/LoginHandlerInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/component/LoginHandlerInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/component/Scheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/component/Scheduler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/config/AsyncConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/config/AsyncConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/config/MVCConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/config/MVCConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/config/SolrConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/config/SolrConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/controller/DocumentSearchController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/controller/DocumentSearchController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/controller/GeneralController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/controller/GeneralController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/controller/UploadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/controller/UploadController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/controller/ViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/controller/ViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/dao/document/DocumentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/dao/document/DocumentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/dao/document/sql/MySQLDocumentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/dao/document/sql/MySQLDocumentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/service/DocumentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/service/DocumentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/utils/SpringUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/utils/SpringUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/utils/UploadAndIndexingFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fulltext/print/demo/utils/UploadAndIndexingFiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/search.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/search.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/view.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fulltext/print/demo/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/fulltext/print/demo/DemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fulltext/print/demo/DocumentSearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/fulltext/print/demo/DocumentSearchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fulltext/print/demo/DocumentServiceTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/fulltext/print/demo/DocumentServiceTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fulltext/print/demo/DocumentSolrDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/fulltext/print/demo/DocumentSolrDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fulltext/print/demo/OCRTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/fulltext/print/demo/OCRTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fulltext/print/demo/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/fulltext/print/demo/UserTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/Documents/apache-maven-3.6.1/repository" />
+        <option name="mavenHome" value="C:\Users\42389\.m2\wrapper\dists\apache-maven-3.6.0-bin\2dakv70gp803gtm5ve1ufmvttn\apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="$USER_HOME$/Documents/apache-maven-3.6.1/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="11" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+  </component>
+  <component name="ProjectId" id="1daV53AqIV4CACT7n25W1KPL6H7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MultiCallOCR" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn verify" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DemoApplication">
+    <configuration name="DemoApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/jdk-11.0.8" />
+      <option name="MAIN_CLASS_NAME" value="fulltext.print.demo.DemoApplication" />
+      <module name="printerFulltextDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fulltext.print.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="printerFulltextDemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="fulltext.print.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DemoApplication" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32e8a93a-3485-478d-a3ea-e9e4a4225671" name="Default Changelist" comment="" />
+      <created>1592663003653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592663003653</updated>
+      <workItem from="1592663008732" duration="468000" />
+      <workItem from="1592663519674" duration="476000" />
+      <workItem from="1592664010788" duration="884000" />
+      <workItem from="1592664901507" duration="36000" />
+      <workItem from="1592664940253" duration="134000" />
+      <workItem from="1592721018937" duration="2119000" />
+      <workItem from="1592931001317" duration="111000" />
+      <workItem from="1592982289617" duration="174000" />
+      <workItem from="1593414068611" duration="26000" />
+      <workItem from="1593414355474" duration="274000" />
+      <workItem from="1593539450261" duration="344000" />
+      <workItem from="1593756650226" duration="1735000" />
+      <workItem from="1593942681744" duration="497000" />
+      <workItem from="1593996880708" duration="2093000" />
+      <workItem from="1593999534374" duration="291000" />
+      <workItem from="1593999830516" duration="867000" />
+      <workItem from="1594000914800" duration="835000" />
+      <workItem from="1594001778940" duration="16000" />
+      <workItem from="1594001798121" duration="542000" />
+      <workItem from="1594002576982" duration="2052000" />
+      <workItem from="1594020060228" duration="126000" />
+      <workItem from="1594087911554" duration="1325000" />
+      <workItem from="1594173964595" duration="809000" />
+      <workItem from="1594177352179" duration="950000" />
+      <workItem from="1594382588390" duration="80000" />
+      <workItem from="1594800901322" duration="147000" />
+      <workItem from="1594869633928" duration="248000" />
+      <workItem from="1595158473724" duration="2252000" />
+      <workItem from="1595310658168" duration="320000" />
+      <workItem from="1595411183549" duration="2132000" />
+      <workItem from="1595430709981" duration="101000" />
+      <workItem from="1595485030151" duration="932000" />
+      <workItem from="1595489448456" duration="72000" />
+      <workItem from="1595506072430" duration="124000" />
+      <workItem from="1595570880529" duration="245000" />
+      <workItem from="1595763525444" duration="746000" />
+      <workItem from="1595836530749" duration="2018000" />
+      <workItem from="1595901793316" duration="1638000" />
+      <workItem from="1595904377319" duration="478000" />
+      <workItem from="1595904912841" duration="199000" />
+      <workItem from="1595905204287" duration="378000" />
+      <workItem from="1596000828490" duration="1895000" />
+      <workItem from="1596362145850" duration="172000" />
+      <workItem from="1597305222569" duration="107000" />
+      <workItem from="1597305666934" duration="36000" />
+      <workItem from="1597579836517" duration="487000" />
+      <workItem from="1599564603505" duration="78000" />
+      <workItem from="1599635419121" duration="273000" />
+      <workItem from="1599635768140" duration="384000" />
+      <workItem from="1600079567587" duration="31000" />
+      <workItem from="1600079663486" duration="718000" />
+      <workItem from="1600308681543" duration="1887000" />
+      <workItem from="1600565210943" duration="390000" />
+      <workItem from="1600566239156" duration="3592000" />
+      <workItem from="1600584306446" duration="809000" />
+      <workItem from="1600765598369" duration="129000" />
+      <workItem from="1600765816995" duration="2432000" />
+      <workItem from="1600774311340" duration="652000" />
+      <workItem from="1600789264640" duration="1596000" />
+      <workItem from="1600827841170" duration="81000" />
+      <workItem from="1600827925797" duration="103000" />
+      <workItem from="1600828096961" duration="368000" />
+      <workItem from="1600828528623" duration="789000" />
+      <workItem from="1600829579580" duration="26000" />
+      <workItem from="1600829608727" duration="429000" />
+      <workItem from="1600830262404" duration="377000" />
+      <workItem from="1600830927785" duration="65000" />
+      <workItem from="1600830995304" duration="112000" />
+      <workItem from="1600831111024" duration="44000" />
+      <workItem from="1600831158098" duration="274000" />
+      <workItem from="1601365409677" duration="934000" />
+      <workItem from="1601366487625" duration="92000" />
+      <workItem from="1601366583247" duration="107000" />
+      <workItem from="1601792073530" duration="48000" />
+      <workItem from="1601962450130" duration="270000" />
+      <workItem from="1601962735297" duration="5399000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="370" y="54" key="#DemoApplication" timestamp="1601967707712">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="370" y="54" key="#DemoApplication/0.0.1440.900@0.0.1440.900" timestamp="1601967707712" />
+    <state x="493" y="65" key="#DemoApplication/0.0.1920.1080@0.0.1920.1080" timestamp="1599635427640" />
+    <state x="358" y="164" key="#Notifications" timestamp="1602034074701">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="358" y="164" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1602034074701" />
+    <state x="516" y="146" width="1089" height="813" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603426588468">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="516" y="146" width="1089" height="813" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1603426588468" />
+    <state x="336" y="146" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1601963369236">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="336" y="146" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1440.900@0.0.1440.900" timestamp="1601963369236" />
+    <state x="674" y="198" key="FileChooserDialogImpl" timestamp="1605099119524">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="421" y="121" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1602034047807" />
+    <state x="674" y="198" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1605099119524" />
+    <state width="1877" height="240" key="GridCell.Tab.0.bottom" timestamp="1606649138151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1281" height="201" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602778071464" />
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601968267942" />
+    <state width="2005" height="376" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1605274818554" />
+    <state width="1877" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606649138151" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1599635692598" />
+    <state width="2005" height="496" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1605200197156" />
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1600569564240" />
+    <state width="1877" height="240" key="GridCell.Tab.0.center" timestamp="1606649138151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1281" height="201" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602778071464" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601968267940" />
+    <state width="2005" height="376" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1605274818554" />
+    <state width="1877" height="240" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606649138151" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1599635692597" />
+    <state width="2005" height="496" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1605200197156" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1600569564239" />
+    <state width="1877" height="240" key="GridCell.Tab.0.left" timestamp="1606649138151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1281" height="201" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602778071464" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601968267938" />
+    <state width="2005" height="376" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1605274818554" />
+    <state width="1877" height="240" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606649138151" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1599635692596" />
+    <state width="2005" height="496" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1605200197155" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1600569564238" />
+    <state width="1877" height="240" key="GridCell.Tab.0.right" timestamp="1606649138151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1281" height="201" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602778071464" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601968267941" />
+    <state width="2005" height="376" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1605274818554" />
+    <state width="1877" height="240" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606649138151" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1599635692598" />
+    <state width="2005" height="496" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1605200197156" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1600569564239" />
+    <state width="2005" height="376" key="GridCell.Tab.1.bottom" timestamp="1605274818556">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1605274818556" />
+    <state width="2005" height="376" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1605194050768" />
+    <state width="2005" height="376" key="GridCell.Tab.1.center" timestamp="1605274818555">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.center/0.0.1707.1027@0.0.1707.1027" timestamp="1605274818555" />
+    <state width="2005" height="376" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1605194050768" />
+    <state width="2005" height="376" key="GridCell.Tab.1.left" timestamp="1605274818554">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.left/0.0.1707.1027@0.0.1707.1027" timestamp="1605274818554" />
+    <state width="2005" height="376" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1605194050768" />
+    <state width="2005" height="376" key="GridCell.Tab.1.right" timestamp="1605274818556">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.right/0.0.1707.1027@0.0.1707.1027" timestamp="1605274818556" />
+    <state width="2005" height="376" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1605194050768" />
+    <state x="274" y="0" key="Maven.ArtifactSearchDialog" timestamp="1603439411231">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1602035105139" />
+    <state x="274" y="0" key="Maven.ArtifactSearchDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1603439411231" />
+    <state x="725" y="112" width="914" height="707" key="SettingsEditor" timestamp="1603548796529">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="196" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1602034116806" />
+    <state x="221" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1601963362152" />
+    <state x="647" y="76" width="914" height="707" key="SettingsEditor/0.0.1707.1027@0.0.1707.1027" timestamp="1603436469636" />
+    <state x="725" y="112" width="996" height="707" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1603548796529" />
+    <state x="425" y="233" key="refactoring.ChangeSignatureDialog" timestamp="1601967679052">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="425" y="233" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1601967679052" />
+    <state x="649" y="272" width="807" height="734" key="run.anything.popup" timestamp="1603548600243">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="541" y="251" width="672" height="677" key="run.anything.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1603436320969" />
+    <state x="649" y="272" width="807" height="734" key="run.anything.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1603548600243" />
+    <state x="311" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1606830158902">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="311" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1606830158902" />
+  </component>
+</project>
